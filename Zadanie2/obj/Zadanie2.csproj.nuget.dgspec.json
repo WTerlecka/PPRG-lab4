@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37402\\Desktop\\PPRG lab4\\PPRG lab4\\PPRG lab4.csproj": {}
+    "C:\\Users\\s37402\\Desktop\\PPRG lab4\\Zadanie2\\Zadanie2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37402\\Desktop\\PPRG lab4\\PPRG lab4\\PPRG lab4.csproj": {
+    "C:\\Users\\s37402\\Desktop\\PPRG lab4\\Zadanie2\\Zadanie2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37402\\Desktop\\PPRG lab4\\PPRG lab4\\PPRG lab4.csproj",
-        "projectName": "PPRG lab4",
-        "projectPath": "C:\\Users\\s37402\\Desktop\\PPRG lab4\\PPRG lab4\\PPRG lab4.csproj",
+        "projectUniqueName": "C:\\Users\\s37402\\Desktop\\PPRG lab4\\Zadanie2\\Zadanie2.csproj",
+        "projectName": "Zadanie2",
+        "projectPath": "C:\\Users\\s37402\\Desktop\\PPRG lab4\\Zadanie2\\Zadanie2.csproj",
         "packagesPath": "C:\\Users\\s37402\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37402\\Desktop\\PPRG lab4\\PPRG lab4\\obj\\",
+        "outputPath": "C:\\Users\\s37402\\Desktop\\PPRG lab4\\Zadanie2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37402\\AppData\\Roaming\\NuGet\\NuGet.Config"
